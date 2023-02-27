@@ -18,6 +18,3 @@ obje = Test()
 
 obje.add(2,3)
 obje.sub(3,4)
-
-
-
